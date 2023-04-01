@@ -6,7 +6,7 @@
 class mike() {
 	pronouns: "he"
 	code: {Java}
-	future code: {Kotlin, Swift, JavaScript}
+	future code: {Kotlin, Swift, JavaScript, Python}
 	systems: {Windows, macOS, Linux, iOS, Android}
 	
 	challange: "Desarrollar mi primera aplicacion!"
